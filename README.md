@@ -13,8 +13,6 @@
 - 🔭 I’m currently working at Sanasa
 - 💻 I'm a System of Analyst
 
-<br/>
-
 ----
 
 **Languages and Tools:**  
