@@ -7,10 +7,12 @@
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+-----
 
 - 🔭 I’m currently working at Sanasa
 - 💻 I'm a System of Analyst
 
+-----
 
 **Languages and Tools:**  
 
