@@ -10,7 +10,7 @@
 
 ----
 
-- 🔭 I’m currently working at Sanasa
+- 🔭 I’m currently working at Ben Fatto
 - 💻 I'm a System of Analyst
 
 ----
